@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav MR
-- 👀 I’m interested in Cybersecurity, Python, Linux
+- 👀 I’m interested in Ethical Hacking, Python, Linux
 - 🐧 I daily drive Linux Mint
 - 🌱 I’m currently learning Malware analysis, Network pentesting
 - 💞️ I’m looking to collaborate on Python and Cybersecurity projects
