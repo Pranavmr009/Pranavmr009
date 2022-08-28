@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Pranavmr009
-- 👀 I’m interested in Cybersecurity, Python, Linux, ML
-- 🌱 I’m currently learning Cybersecurity
+- 👋 Hi, I’m Pranav MR
+- 👀 I’m interested in Cybersecurity, Python, Linux
+- 🐧 I daily drive Linux Mint
+- 🌱 I’m currently learning Malware analysis, Network pentesting
 - 💞️ I’m looking to collaborate on Python and Cybersecurity projects
 - 📫 How to reach me https://twitter.com/PranavMR19
 - I am also on fiverr so if you want to learn cyber security, networking or python you can reach me on https://www.fiverr.com/pranavtechy for one-to-one classes.
